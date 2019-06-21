@@ -10,5 +10,8 @@
 <b>Plugin Description:</b>
 </p>
 Q2A Online User And Visit Count Widget
-  
-  
+</p> 
+<b>Changelog : </b> 
+<li>Working With Mysqli</li>
+<li>Add Visit Count On Widget</li>
+<li> Add Option For Active Or Deactive Visit Count On Widget</li>
