@@ -48,6 +48,6 @@ About q2a
 ---------
 <a href="http://www.question2answer.org/">Question2Answer</a> is a free and open source PHP software for Q&A sites.
 
-Thanks For
+Thanks For Help
 ---------
 I have to thank <a href="https://www.question2answer.org/qa/user/sonsuz">sonsuz</a> for his help to get this plugin again 
