@@ -1,11 +1,11 @@
 # Q2A - Online User Count
 
-<li>Plugin Name: Online User Count</li>
-<li>Plugin Version: 2.0</li>
-<li>Plugin Date: 2013-12-16</li>
-<li>Plugin Author: Ali Sayahiyan </li>
-<li>Plugin License: GPLv2</li>
-<li>Plugin Minimum <a href="http://www.question2answer.org/">Question2Answer</a> Version: 1.6</li>
+- Plugin Name: Online User Count
+- Plugin Version: 2.0
+- Plugin Date: 2013-12-16
+- Plugin Author: Ali Sayahiyan
+- Plugin License: GPLv2
+- Plugin Minimum <a href="http://www.question2answer.org/">Question2Answer</a> Version: 1.6
 
 Plugin Description
 ------------
@@ -16,9 +16,9 @@ Installation
 - Install <a href="http://www.question2answer.org/">Question2Answer</a> if you haven't already.
 - Download this plugin directly and upload it inside the `qa-plugin` folder of your Q2A installation.
 - Extract the files.
-<li>Optional: Change language strings in file ```show-online-user-count-lang.php```</li>
-<li>Navigate to your site, go to **Admin -> Plugins**. Check if the plugin "Online User Count" is listed.</li>
-<li>Press **sittings** then place the options you want to ZAactivate the plugin</li>
+- Optional: Change language strings in file ```show-online-user-count-lang.php```
+- Navigate to your site, go to **Admin -> Plugins**. Check if the plugin "Online User Count" is listed.
+- Press **sittings** then place the options you want to ZAactivate the plugin
   
 Changelog
 ------------
