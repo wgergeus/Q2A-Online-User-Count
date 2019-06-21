@@ -47,3 +47,7 @@ All code herein is <a href="http://www.gnu.org/licenses/gpl.html">OpenSource</a>
 About q2a
 ---------
 <a href="http://www.question2answer.org/">Question2Answer</a> is a free and open source PHP software for Q&A sites.
+
+Thanks For
+---------
+I have to thank <a href="https://www.question2answer.org/qa/user/sonsuz">sonsuz</a> for his help to get this plugin again 
