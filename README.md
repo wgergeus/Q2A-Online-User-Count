@@ -6,7 +6,9 @@
 <li>Plugin Author: Ali Sayahiyan </li>
 <li>Plugin License: GPLv2</li>
 <li>Plugin Minimum Question2Answer Version: 1.6</li>
+</p>
 <b>Plugin Description:</b>
+</p>
 Q2A Online User And Visit Count Widget
   
   
