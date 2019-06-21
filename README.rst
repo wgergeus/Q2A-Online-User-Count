@@ -1,12 +1,14 @@
-# Q2A - Online User Count
+=========================================
+Q2A - Online User Count
+=========================================
 
-<li>Plugin Name: Online User Count</li>
-<li>Plugin Version: 2.0</li>
+1.Plugin Name: Online User Count
+2.Plugin Version: 2.0
 <li>Plugin Date: 2013-12-16</li>
 <li>Plugin Author: Ali Sayahiyan </li>
 <li>Plugin License: GPLv2</li>
 <li>Plugin Minimum <a href="http://www.question2answer.org/">Question2Answer</a> Version: 1.6</li>
-</p>
+
 <b>Plugin Description:</b>
 </p>
 <a href="http://www.question2answer.org/">Q2A</a> Online User And Visit Count Widget
