@@ -5,7 +5,7 @@
 <li>Plugin Date: 2013-12-16</li>
 <li>Plugin Author: Ali Sayahiyan </li>
 <li>Plugin License: GPLv2</li>
-<li>Plugin Minimum Question2Answer Version: 1.6</li>
+<li>Plugin Minimum <a href="http://www.question2answer.org/">Question2Answer</a> Version: 1.6</li>
 </p>
 <b>Plugin Description:</b>
 </p>
