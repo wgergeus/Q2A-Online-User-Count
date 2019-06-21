@@ -5,15 +5,15 @@
 - Plugin Date: 2013-12-16
 - Plugin Author: Ali Sayahiyan
 - Plugin License: GPLv2
-- Plugin Minimum <a href="http://www.question2answer.org/">Question2Answer</a> Version: 1.6
+- Plugin Minimum [Question2Answer](http://www.question2answer.org/) Version: 1.6
 
 Plugin Description
 ------------
-This is a plugin for <a href="http://www.question2answer.org/">Question2Answer</a> that show Online User And Visit Count Widget
+This is a plugin for [Question2Answer](http://www.question2answer.org/) that show Online User And Visit Count Widget
 
 Installation
 ------------
-- Install <a href="http://www.question2answer.org/">Question2Answer</a> if you haven't already.
+- Install [Question2Answer](http://www.question2answer.org/) if you haven't already.
 - Download this plugin directly and upload it inside the `qa-plugin` folder of your Q2A installation.
 - Extract the files.
 - Optional: Change language strings in file ```show-online-user-count-lang.php```
@@ -28,7 +28,7 @@ Changelog
 
 Tested On [Q2A](http://www.question2answer.org/) V1.8.3 & V1.7.3 With SnowFlat Theme
 
-If you want to Change css , go to pluginfolder/css/style.css
+If you want to Change css , go to `pluginfolder/css/style.css`
 </p>
 <b>preview of widget:</b>
 </p>
