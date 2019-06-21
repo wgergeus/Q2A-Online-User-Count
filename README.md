@@ -19,3 +19,9 @@ Q2A Online User And Visit Count Widget
 Tested On Q2A V1.8.3 & V1.7.3 With SnowFlat Theme
 </p>
 If you want to Change css , go to pluginfolder/css/style.css
+</p>
+<center><img src="http://196.221.149.40/img/OnlineUserCount.jpg"></center>
+
+http://196.221.149.40/img/OnlineUserCount.jpg
+
+http://196.221.149.40/img/OnlineUserCountWidget.jpg
