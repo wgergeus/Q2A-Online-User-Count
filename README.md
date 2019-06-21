@@ -25,9 +25,9 @@ Changelog
 - Working With Mysqli
 - Add Visit Count On Widget
 - Add Option For Active Or Deactive Visit Count On Widget
-</p>
+
 Tested On [Q2A](http://www.question2answer.org/) V1.8.3 & V1.7.3 With SnowFlat Theme
-</p>
+
 If you want to Change css , go to pluginfolder/css/style.css
 </p>
 <b>preview of widget:</b>
