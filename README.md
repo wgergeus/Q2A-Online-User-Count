@@ -9,14 +9,14 @@
 </p>
 <b>Plugin Description:</b>
 </p>
-Q2A Online User And Visit Count Widget
+<a href="http://www.question2answer.org/">Q2A</a> Online User And Visit Count Widget
 </p> 
 <b>Changelog : </b> 
 <li>Working With Mysqli</li>
 <li>Add Visit Count On Widget</li>
 <li> Add Option For Active Or Deactive Visit Count On Widget</li>
 </p>
-Tested On Q2A V1.8.3 & V1.7.3 With SnowFlat Theme
+Tested On <a href="http://www.question2answer.org/">Q2A</a> V1.8.3 & V1.7.3 With SnowFlat Theme
 </p>
 If you want to Change css , go to pluginfolder/css/style.css
 </p>
