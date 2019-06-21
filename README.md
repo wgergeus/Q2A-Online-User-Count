@@ -50,4 +50,4 @@ About q2a
 
 Thanks For Help
 ---------
-I have to thank <a href="https://www.question2answer.org/qa/user/sonsuz">sonsuz</a> for his help to get this plugin again 
+I have to thank <a href="https://www.question2answer.org/qa/user/sonsuz">sonsuz</a> for his help to get this plugin again :+1:
