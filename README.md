@@ -7,22 +7,21 @@
 <li>Plugin License: GPLv2</li>
 <li>Plugin Minimum <a href="http://www.question2answer.org/">Question2Answer</a> Version: 1.6</li>
 
-# Plugin Description
-</p>
+Plugin Description
+------------
 This is a plugin for <a href="http://www.question2answer.org/">Question2Answer</a> that show Online User And Visit Count Widget
 
 Installation
 ------------
-#. Install Question2Answer_ if you haven't already.
-#. Get the source code for this plugin directly from github_ or from the `q2apro plugin page`_.
-#. Extract the files.
-#. Optional: Change language strings in file ``q2apro-comment-to-answer-lang.php``
-#. Upload the files to a subfolder called ``q2apro-comment-to-answer`` inside the ``qa-plugin`` folder of your Q2A installation.
-#. Navigate to your site, go to **Admin -> Plugins**. Check if the plugin "Comment to Answer" is listed.
-#. Navigate to ``yourq2asite.com/convertcomment``. From there you can do the converting as admin.
-
-# Changelog
-
+<li>Install <a href="http://www.question2answer.org/">Question2Answer</a> if you haven't already.</li>
+<li>Download this plugin directly and upload it inside the ``qa-plugin`` folder of your Q2A installation.
+<li>Extract the files.
+<li>Optional: Change language strings in file ``show-online-user-count-lang.php``
+<li>Navigate to your site, go to **Admin -> Plugins**. Check if the plugin "Online User Count" is listed.
+<li>Press **sittings** then place the options you want to activate the plugin
+  
+Changelog
+------------
 <li>Working With Mysqli</li>
 <li>Add Visit Count On Widget</li>
 <li> Add Option For Active Or Deactive Visit Count On Widget</li>
@@ -41,3 +40,10 @@ If you want to Change css , go to pluginfolder/css/style.css
 </p>
 <img src="http://196.221.149.40/img/OnlineUserCount.jpg">
 
+Copyright
+---------
+All code herein is <a href="http://www.gnu.org/licenses/gpl.html">OpenSource</a>. Feel free to build upon it and share with the world.
+
+About q2a
+---------
+<a href="http://www.question2answer.org/">Question2Answer</a> is a free and open source PHP software for Q&A sites.
