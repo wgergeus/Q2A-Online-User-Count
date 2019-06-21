@@ -20,8 +20,13 @@ Tested On Q2A V1.8.3 & V1.7.3 With SnowFlat Theme
 </p>
 If you want to Change css , go to pluginfolder/css/style.css
 </p>
-<center><img src="http://196.221.149.40/img/OnlineUserCount.jpg"></center>
+<b>preview of widget:</b>
+</p>
+<img src="http://196.221.149.40/img/OnlineUserCountWidget.jpg">
+</p>
+</p>
+</p>
+<b>preview of options:</b>
+</p>
+<img src="http://196.221.149.40/img/OnlineUserCount.jpg">
 
-http://196.221.149.40/img/OnlineUserCount.jpg
-
-http://196.221.149.40/img/OnlineUserCountWidget.jpg
