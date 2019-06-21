@@ -10,8 +10,9 @@
 # Plugin Description
 </p>
 <a href="http://www.question2answer.org/">Q2A</a> Online User And Visit Count Widget
-</p> 
+
 # Changelog
+
 <li>Working With Mysqli</li>
 <li>Add Visit Count On Widget</li>
 <li> Add Option For Active Or Deactive Visit Count On Widget</li>
