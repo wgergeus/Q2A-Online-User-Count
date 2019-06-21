@@ -1,9 +1,9 @@
 =========================================
-Q2A - Online User Count
+# Q2A - Online User Count
 =========================================
 
-1.Plugin Name: Online User Count
-2.Plugin Version: 2.0
+<li>Plugin Name: Online User Count</li>
+<li>Plugin Version: 2.0</li>
 <li>Plugin Date: 2013-12-16</li>
 <li>Plugin Author: Ali Sayahiyan </li>
 <li>Plugin License: GPLv2</li>
