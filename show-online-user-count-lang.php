@@ -27,8 +27,8 @@
 
 	return array(
 		'total_online_users' => ' ^  Online Users',
-		'online_guest_member'=>'^1  Member ^2 Geut',
-		'online_user_list'=>'Online Member',
+		'online_guest_member'=>'^1  Member ^2 Guest',
+		'online_user_list'=>'Online Members',
 		'save_button'=>'Save Changes',
 		'show_online_members'=>'Show Online Users List',
 		'change_ok'=>'Changes successfully saved!',
