@@ -9,7 +9,7 @@
 
 # Plugin Description
 </p>
-<a href="http://www.question2answer.org/">Q2A</a> Online User And Visit Count Widget
+This is a plugin for <a href="http://www.question2answer.org/">Question2Answer</a> that show Online User And Visit Count Widget
 
 # Changelog
 
