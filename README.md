@@ -15,3 +15,7 @@ Q2A Online User And Visit Count Widget
 <li>Working With Mysqli</li>
 <li>Add Visit Count On Widget</li>
 <li> Add Option For Active Or Deactive Visit Count On Widget</li>
+</p>
+Tested On Q2A V1.8.3 & V1.7.3 With SnowFlat Theme
+</p>
+If you want to Change css , go to pluginfolder/css/style.css
