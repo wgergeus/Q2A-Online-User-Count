@@ -7,11 +7,11 @@
 <li>Plugin License: GPLv2</li>
 <li>Plugin Minimum <a href="http://www.question2answer.org/">Question2Answer</a> Version: 1.6</li>
 
-<b>Plugin Description:</b>
+# Plugin Description
 </p>
 <a href="http://www.question2answer.org/">Q2A</a> Online User And Visit Count Widget
 </p> 
-<b>Changelog : </b> 
+# Changelog
 <li>Working With Mysqli</li>
 <li>Add Visit Count On Widget</li>
 <li> Add Option For Active Or Deactive Visit Count On Widget</li>
