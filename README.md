@@ -1,4 +1,4 @@
-# Q2A - Show Online User Count
+# Q2A - Online User Count
 
 <li>Plugin Name: Online User Count</li>
 <li>Plugin Version: 2.0</li>
