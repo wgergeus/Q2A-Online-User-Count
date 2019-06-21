@@ -17,8 +17,8 @@ Installation
 - Download this plugin directly and upload it inside the `qa-plugin` folder of your Q2A installation.
 - Extract the files.
 - Optional: Change language strings in file ```show-online-user-count-lang.php```
-- Navigate to your site, go to **Admin -> Plugins**. Check if the plugin "Online User Count" is listed.
-- Press **sittings** then place the options you want to ZAactivate the plugin
+- Navigate to your site, go to **Admin -> Plugins**. Check if the plugin ```Online User Count``` is listed.
+- Press **sittings** then place the options you want to activate the plugin
   
 Changelog
 ------------
