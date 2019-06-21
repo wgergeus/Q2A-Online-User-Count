@@ -42,12 +42,12 @@ If you want to Change css , go to `pluginfolder/css/style.css`
 
 Copyright
 ---------
-All code herein is <a href="http://www.gnu.org/licenses/gpl.html">OpenSource</a>. Feel free to build upon it and share with the world.
+All code herein is [OpenSource](http://www.gnu.org/licenses/gpl.html). Feel free to build upon it and share with the world.
 
 About q2a
 ---------
-<a href="http://www.question2answer.org/">Question2Answer</a> is a free and open source PHP software for Q&A sites.
+[Question2Answer](http://www.question2answer.org/) is a free and open source PHP software for Q&A sites.
 
 Thanks For Help
 ---------
-I have to thank <a href="https://www.question2answer.org/qa/user/sonsuz">sonsuz</a> for his help to get this plugin again :+1:
+I have to thank [sonsuz](https://www.question2answer.org/qa/user/sonsuz) for his help to get this plugin again :+1:
