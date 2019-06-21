@@ -18,13 +18,13 @@ Installation
 - Extract the files.
 - Optional: Change language strings in file ```show-online-user-count-lang.php```
 - Navigate to your site, go to **Admin -> Plugins**. Check if the plugin ```Online User Count``` is listed.
-- Press **sittings** then place the options you want to activate the plugin
+- Press **Settings** then place the options you want to activate the plugin
   
 Changelog
 ------------
-<li>Working With Mysqli</li>
-<li>Add Visit Count On Widget</li>
-<li> Add Option For Active Or Deactive Visit Count On Widget</li>
+- Working With Mysqli
+- Add Visit Count On Widget
+- Add Option For Active Or Deactive Visit Count On Widget
 </p>
 Tested On <a href="http://www.question2answer.org/">Q2A</a> V1.8.3 & V1.7.3 With SnowFlat Theme
 </p>
