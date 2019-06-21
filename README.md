@@ -1,6 +1,7 @@
 # Q2A - Show Online User Count
 
 Plugin Name: Online User Count
+</p>
 Plugin Description: Q2A Online User And Visit Count Widget
 Plugin Version: 2.0
 Plugin Date: 2013-12-16
