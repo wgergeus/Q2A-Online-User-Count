@@ -14,9 +14,9 @@ This is a plugin for <a href="http://www.question2answer.org/">Question2Answer</
 Installation
 ------------
 <li>Install <a href="http://www.question2answer.org/">Question2Answer</a> if you haven't already.</li>
-<li>Download this plugin directly and upload it inside the ``qa-plugin`` folder of your Q2A installation.</li>
+<li>Download this plugin directly and upload it inside the ```qa-plugin``` folder of your Q2A installation.</li>
 <li>Extract the files.</li>
-<li>Optional: Change language strings in file "show-online-user-count-lang.php"</li>
+<li>Optional: Change language strings in file ```show-online-user-count-lang.php```</li>
 <li>Navigate to your site, go to **Admin -> Plugins**. Check if the plugin "Online User Count" is listed.</li>
 <li>Press **sittings** then place the options you want to ZAactivate the plugin</li>
   
