@@ -26,7 +26,7 @@ Changelog
 - Add Visit Count On Widget
 - Add Option For Active Or Deactive Visit Count On Widget
 
-Tested On [Q2A](http://www.question2answer.org/) V1.8.3 & V1.7.3 With SnowFlat Theme
+Tested On [Q2A](http://www.question2answer.org/) V1.8.6 With SnowFlat Theme and AVEN theme
 
 If you want to Change css , go to `pluginfolder/css/style.css`
 </p>
